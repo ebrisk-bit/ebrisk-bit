@@ -1,4 +1,4 @@
-👋 Bonjour, je m'appelle @ebrisk-bit
+👋 Bonjour, je m'appelle @ebrisk-bit, je suis nouveau a Github
 - 👀 Je suis intéressé par l'apprentissage du développement web et de PyTorch
 - 🌱 Actuellement, j'apprends à construire des applications web avec React.js et à utiliser PyTorch pour des projets d'apprentissage profond.
 - 💞️ Je cherche à collaborer sur des projets open source dans le domaine de l'IA et du traitement des données.
